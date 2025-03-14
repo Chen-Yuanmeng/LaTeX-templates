@@ -12,3 +12,5 @@
 
 - [国科大 大学英语IV 论文 LaTeX 模板](https://github.com/Chen-Yuanmeng/UCAS-English-IV-report-template)
 
+- [学生作业 通用 LaTeX 模板](https://github.com/Chen-Yuanmeng/LaTeX-homework-template)
+
